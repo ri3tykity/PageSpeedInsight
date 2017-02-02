@@ -26,3 +26,5 @@ C:\Users\naturewebteam\Documents\visual studio 2015\Projects\PageSpeedInsight\Pa
 C:\Users\naturewebteam\Documents\visual studio 2015\Projects\PageSpeedInsight\PageSpeedInsight\obj\Debug\PageSpeedInsight.csprojResolveAssemblyReference.cache
 C:\Users\naturewebteam\Documents\visual studio 2015\Projects\PageSpeedInsight\PageSpeedInsight\obj\Debug\PageSpeedInsight.dll
 C:\Users\naturewebteam\Documents\visual studio 2015\Projects\PageSpeedInsight\PageSpeedInsight\obj\Debug\PageSpeedInsight.pdb
+C:\Users\naturewebteam\documents\visual studio 2015\Projects\PageSpeedInsight\PageSpeedInsight\bin\PSA.dll
+C:\Users\naturewebteam\documents\visual studio 2015\Projects\PageSpeedInsight\PageSpeedInsight\bin\PSA.pdb

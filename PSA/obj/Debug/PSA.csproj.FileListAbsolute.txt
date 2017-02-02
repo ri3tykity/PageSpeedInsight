@@ -3,3 +3,4 @@ C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PS
 C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PSA\obj\Debug\PSA.csprojResolveAssemblyReference.cache
 C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PSA\obj\Debug\PSA.dll
 C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PSA\obj\Debug\PSA.pdb
+C:\Users\naturewebteam\documents\visual studio 2015\Projects\PageSpeedInsight\PSA\bin\Debug\PSA.dll.config
