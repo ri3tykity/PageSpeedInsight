@@ -1,0 +1,90 @@
+﻿Installing assembly 'C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.InstallLog
+   assemblypath = C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.exe
+Installing service PageSpeedService...
+Service PageSpeedService has been successfully installed.
+Creating EventLog source PageSpeedService in log Application...
+Committing assembly 'C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.InstallLog
+   assemblypath = C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.exe
+Uninstalling assembly 'C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.InstallLog
+   assemblypath = C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.exe
+Removing EventLog source PageSpeedService.
+Service PageSpeedService is being removed from the system...
+Service PageSpeedService was successfully removed from the system.
+Installing assembly 'C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.InstallLog
+   assemblypath = C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.exe
+Installing service PageSpeedService...
+Service PageSpeedService has been successfully installed.
+Creating EventLog source PageSpeedService in log Application...
+Committing assembly 'C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.InstallLog
+   assemblypath = C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.exe
+Uninstalling assembly 'C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.InstallLog
+   assemblypath = C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.exe
+Removing EventLog source PageSpeedService.
+Service PageSpeedService is being removed from the system...
+Service PageSpeedService was successfully removed from the system.
+Installing assembly 'C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.InstallLog
+   assemblypath = C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.exe
+Installing service PageSpeedService...
+Creating EventLog source PageSpeedService in log Application...
+Rolling back assembly 'C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.InstallLog
+   assemblypath = C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.exe
+Restoring event log to previous state for source PageSpeedService.
+Uninstalling assembly 'C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.InstallLog
+   assemblypath = C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.exe
+Removing EventLog source PageSpeedService.
+Warning: The source PageSpeedService is not registered on the local machine.
+Service PageSpeedService is being removed from the system...
+Service PageSpeedService was successfully removed from the system.
+Installing assembly 'C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.InstallLog
+   assemblypath = C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.exe
+Installing service PageSpeedService...
+Creating EventLog source PageSpeedService in log Application...
+Rolling back assembly 'C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.InstallLog
+   assemblypath = C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.exe
+Restoring event log to previous state for source PageSpeedService.
+Installing assembly 'C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.InstallLog
+   assemblypath = C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.exe
+Installing service PageSpeedService...
+Service PageSpeedService has been successfully installed.
+Creating EventLog source PageSpeedService in log Application...
+Committing assembly 'C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.InstallLog
+   assemblypath = C:\Users\naturewebteam\Documents\Visual Studio 2015\Projects\PageSpeedInsight\PageSpeedService\bin\Release\PageSpeedService.exe

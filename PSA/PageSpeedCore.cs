@@ -1,6 +1,7 @@
 ﻿using System;
 using PSA.DataModel;
 using PSA.DataRepository;
+using System.Net;
 
 namespace PSA
 {
@@ -11,8 +12,14 @@ namespace PSA
         private readonly string GooglePageSpeedAPIAuthToken = "AIzaSyA8419Hk-EeD4FRiD5UHD0W2w7Brgm5hiM";
         private readonly string QueryKey = "&key=";
 
-        // Entry method for page speed api. Pass url and get result.
-        // Every successfull operation store result in database.
+
+        /// <summary>
+        ///    Entry method for page speed api. Pass url and get result.
+        ///    Every successfull operation store result in database.
+        /// </summary>
+        /// <param name="v"></param>
+        /// <returns></returns>
+
         public string FetchURL(string v)
         {
             string result = string.Empty;
@@ -21,13 +28,13 @@ namespace PSA
                 // create data object to save
                 PageSpeedData pData = new PageSpeedData();
                 // get repository base
-                IDatabaseRepo repository = DataRepositoryFactory.FactoryMethod("SqlLite");
+                IDatabaseRepo repository = DataRepositoryFactory.FactoryMethod("MongoDB");
                 // common operation
                 string domainURL = ExtractDomainFromURL(v);
                 string fullFormatedURL = GooglePageSpeedAPIBaseURL + domainURL + QueryKey + GooglePageSpeedAPIAuthToken;
                 result = HttpGet(fullFormatedURL);
                 // set object
-                pData.SiteName = domainURL;
+                pData.Domain = domainURL;
                 pData.Result = result;
                 // save object
                 repository.SaveResult(pData);
@@ -57,7 +64,7 @@ namespace PSA
             return result;
         }
 
-        public static string HttpGet(string URI)
+        public string HttpGet(string URI)
         {
             System.Net.WebRequest req = System.Net.WebRequest.Create(URI);
             req.Proxy = new System.Net.WebProxy(); //true means no proxy

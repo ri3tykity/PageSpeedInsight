@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Collections.Generic;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
@@ -18,11 +16,12 @@ namespace PageSpeedInsight
 
         // GET api/<controller>/5
         // GET URL FROM USER / APPLICATION
-        public string Get(string queryString)
+        public HttpResponseMessage Get(string queryString)
         {
             PageSpeedCore psc = new PageSpeedCore();
             var result = psc.FetchURL(queryString);
-            return result;
+            HttpResponseMessage res = Request.CreateResponse(HttpStatusCode.OK, result);
+            return res;
         }
 
         // POST api/<controller>

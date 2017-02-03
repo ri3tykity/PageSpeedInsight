@@ -11,9 +11,6 @@ namespace PageSpeedInsight.Tests
     {
         PageSpeedCore ps = new PageSpeedCore();
         string inputUrl1 = "http://www.carchat24.com";
-        //string inputUrl2 = "https://www.googleapis.com/pagespeedonline/v2/runPagespeed?url=https://developers.google.com/speed/pagespeed/insights/&strategy=mobile&key=yourAPIKey";
-        //string inputUrl3 = "afafafaf";
-        //string inputUrl4 = "";
         [TestMethod]
         public void FetURL_NotValid()
         {

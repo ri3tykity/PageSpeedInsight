@@ -8,7 +8,7 @@ namespace PSA.DataModel
 {
     public class PageSpeedData
     {
-        public string SiteName { get; set; }
+        public string Domain { get; set; }
         public string Result { get; set; }
     }
 }

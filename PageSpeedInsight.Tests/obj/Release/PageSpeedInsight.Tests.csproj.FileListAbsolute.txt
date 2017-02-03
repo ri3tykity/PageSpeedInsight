@@ -1,0 +1,17 @@
+C:\Users\naturewebteam\documents\visual studio 2015\Projects\PageSpeedInsight\PageSpeedInsight.Tests\bin\Release\PageSpeedInsight.Tests.dll
+C:\Users\naturewebteam\documents\visual studio 2015\Projects\PageSpeedInsight\PageSpeedInsight.Tests\bin\Release\PageSpeedInsight.Tests.pdb
+C:\Users\naturewebteam\documents\visual studio 2015\Projects\PageSpeedInsight\PageSpeedInsight.Tests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\naturewebteam\documents\visual studio 2015\Projects\PageSpeedInsight\PageSpeedInsight.Tests\bin\Release\PSA.dll
+C:\Users\naturewebteam\documents\visual studio 2015\Projects\PageSpeedInsight\PageSpeedInsight.Tests\bin\Release\MongoDB.Driver.Legacy.dll
+C:\Users\naturewebteam\documents\visual studio 2015\Projects\PageSpeedInsight\PageSpeedInsight.Tests\bin\Release\MongoDB.Bson.dll
+C:\Users\naturewebteam\documents\visual studio 2015\Projects\PageSpeedInsight\PageSpeedInsight.Tests\bin\Release\MongoDB.Driver.Core.dll
+C:\Users\naturewebteam\documents\visual studio 2015\Projects\PageSpeedInsight\PageSpeedInsight.Tests\bin\Release\MongoDB.Driver.dll
+C:\Users\naturewebteam\documents\visual studio 2015\Projects\PageSpeedInsight\PageSpeedInsight.Tests\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\naturewebteam\documents\visual studio 2015\Projects\PageSpeedInsight\PageSpeedInsight.Tests\bin\Release\PSA.pdb
+C:\Users\naturewebteam\documents\visual studio 2015\Projects\PageSpeedInsight\PageSpeedInsight.Tests\bin\Release\MongoDB.Driver.Legacy.xml
+C:\Users\naturewebteam\documents\visual studio 2015\Projects\PageSpeedInsight\PageSpeedInsight.Tests\bin\Release\MongoDB.Bson.xml
+C:\Users\naturewebteam\documents\visual studio 2015\Projects\PageSpeedInsight\PageSpeedInsight.Tests\bin\Release\MongoDB.Driver.Core.xml
+C:\Users\naturewebteam\documents\visual studio 2015\Projects\PageSpeedInsight\PageSpeedInsight.Tests\bin\Release\MongoDB.Driver.xml
+C:\Users\naturewebteam\documents\visual studio 2015\Projects\PageSpeedInsight\PageSpeedInsight.Tests\obj\Release\PageSpeedInsight.Tests.csprojResolveAssemblyReference.cache
+C:\Users\naturewebteam\documents\visual studio 2015\Projects\PageSpeedInsight\PageSpeedInsight.Tests\obj\Release\PageSpeedInsight.Tests.dll
+C:\Users\naturewebteam\documents\visual studio 2015\Projects\PageSpeedInsight\PageSpeedInsight.Tests\obj\Release\PageSpeedInsight.Tests.pdb
